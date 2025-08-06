@@ -1,0 +1,18 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (transparent) -->
+  <rect width="80" height="80" fill="transparent"/>
+  
+  <!-- Larger star (bottom-right) -->
+  <polygon 
+    points="60,50 62,45 67,45 63,42 65,37 60,40 55,37 57,42 53,45 58,45" 
+    fill="#8B0000" 
+    stroke="none"
+  />
+  
+  <!-- Smaller star (top-left) -->
+  <polygon 
+    points="25,25 26,22 29,22 27,20 28,17 25,18 22,17 23,20 21,22 24,22" 
+    fill="#8B0000" 
+    stroke="none"
+  />
+</svg> 
